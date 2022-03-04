@@ -1,0 +1,23 @@
+{
+  "name": "logica-de-programacao",
+  "version": "1.0.0",
+  "description": "Logica-de-programacao",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Pina1/Logica-de-programacao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-Pina1/Logica-de-programacao/issues"
+  },
+  "homepage": "https://github.com/Lucas-Pina1/Logica-de-programacao#readme"
+}
